@@ -57,38 +57,3 @@ print('-------------------------')
 print("Winner : Khan" ,max([len(Khans)*100/x, len(Correys)*100/x,len(Lis)*100/x,len(Tooleys)*100/x ]))
 print('-------------------------')
 
-#O'Tooley:
-        #print(row[2] + " is rated " + row[1] + " with a rating of " + row[5])
-
-       
-
-# Loop through the word array and calculate the length of each word
-   # for row in csvreader::
-
-    # Add each letter count into the letter_counts list
-    #letter_counts.append(len(row[2]))
-
-# Calculate the avg letter count
-#avg_letter_count = sum(letter_counts) / float(len(letter_counts))
-
-
-
-
-
-
-  #  ```text
- #print('Election Results')
-  #print('-------------------------')
-  #Total Votes for 3521001
- # print('-------------------------')
-  #Khan: 63.000% (2218231)
- # Correy: 20.000% (704200)
- # Li: 14.000% (492940)
- # O'Tooley: 3.000% (105630)
-# print('-------------------------')
- # Winner: Khan
- # print('-------------------------')
-#  ```
-  # Determine percent of review left to 2 decimal places
-    #    percent = round(int(row[6]) / int(row[5]), 2)
-     #   review_percent.append(percent)
